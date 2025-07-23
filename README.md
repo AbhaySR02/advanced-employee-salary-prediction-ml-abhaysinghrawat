@@ -95,10 +95,10 @@ Try the live application: **[Salary Predictor Demo](https://advanced-employee-sa
 ## 📊 **Results & Visualizations**
 
 ### Model Performance Comparison
-![Performance Chart](results/fast adv ml pipeline results.png)
+![Performance Chart](https://github.com/AbhaySR02/advanced-employee-salary-prediction-ml-abhaysinghrawat/blob/main/results/fast%20adv%20ml%20pipeline%20results.png)
 
 ### Feature Importance Analysis
-![Feature Importance](results/feature imp analysis -voting ensemble.png)
+![Feature Importance](https://github.com/AbhaySR02/advanced-employee-salary-prediction-ml-abhaysinghrawat/blob/main/results/feature%20imp%20analysis%20-voting%20ensemble.png)
 
 ## 🛠️ **Development Setup**
 
