@@ -45,7 +45,7 @@
 
 ### 3. Run Web Application
 
-### 4. Train Model (Optional)
+### 4. Train Model 
 
 ## 📋 **Usage Examples**
 
@@ -88,7 +88,7 @@
 
 ## 🚀 **Live Demo**
 
-Try the live application: **[Salary Predictor Demo](your-demo-link)**
+Try the live application: **[Salary Predictor Demo](https://advanced-employee-salary-prediction-ml-abhaysinghrawat-sen8gjx.streamlit.app)**
 
 ![App Screenshot](results/app_screenshot.png)
 
@@ -107,9 +107,23 @@ Try the live application: **[Salary Predictor Demo](your-demo-link)**
 - 8GB+ RAM (for model training)
 - Modern web browser
 
+📄 Additional Required Files
+requirements.txt
+numpy>=1.21.0
+pandas>=1.3.0
+scikit-learn>=1.0.0
+xgboost>=1.5.0
+lightgbm>=3.3.0
+catboost>=1.0.0
+optuna>=3.0.0
+streamlit>=1.20.0
+matplotlib>=3.5.0
+seaborn>=0.11.0
+scipy>=1.7.0
+joblib>=1.1.0
+plotly>=5.0.0
+
 ### Development Installation
-
-
 
 Clone and setup development environment
 git clone https://github.com/your-username/advanced-salary-prediction-ml.git
@@ -122,9 +136,6 @@ source venv/bin/activate # On Windows: venv\Scripts\activate
 Install development dependencies
 pip install -r requirements.txt
 pip install -r requirements-dev.txt
-
-Run tests
-pytest tests/
 
 Start development server
 streamlit run app/app.py --server.runOnSave true
@@ -153,65 +164,5 @@ streamlit run app/app.py --server.runOnSave true
 
 ⭐ **Star this repository if you found it helpful!** ⭐
 
-📄 Additional Required Files
-requirements.txt
-numpy>=1.21.0
-pandas>=1.3.0
-scikit-learn>=1.0.0
-xgboost>=1.5.0
-lightgbm>=3.3.0
-catboost>=1.0.0
-optuna>=3.0.0
-streamlit>=1.20.0
-matplotlib>=3.5.0
-seaborn>=0.11.0
-scipy>=1.7.0
-joblib>=1.1.0
-plotly>=5.0.0
 
-
-# Python
-__pycache__/
-*.py[cod]
-*$py.class
-*.so
-.Python
-env/
-venv/
-ENV/
-env.bak/
-venv.bak/
-
-.gitignore
-# Jupyter Notebook
-.ipynb_checkpoints
-
-# Model files (too large for git)
-*.pkl
-*.joblib
-*.h5
-*.model
-
-# Data files
-data/*.csv
-data/*.json
-data/*.xlsx
-
-# IDE
-.vscode/
-.idea/
-*.swp
-*.swo
-
-# OS
-.DS_Store
-Thumbs.db
-
-# Logs
-*.log
-logs/
-
-# Temporary files
-*.tmp
-*.temp
 
