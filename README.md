@@ -2,7 +2,7 @@
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Streamlit App](https://img.shields.io/badge/Streamlit-Live%20Demo-red.svg)](your-demo-link)
+[![Streamlit App](https://img.shields.io/badge/Streamlit-Live%20Demo-red.svg)](https://advanced-employee-salary-prediction-ml-abhaysinghrawat-sen8gjx.streamlit.app)
 [![GitHub stars](https://img.shields.io/github/stars/your-username/advanced-salary-prediction-ml.svg)](https://github.com/your-username/advanced-salary-prediction-ml/stargazers)
 
 > **Advanced Machine Learning pipeline for Data Science salary prediction using ensemble methods, sophisticated feature engineering, and Bayesian hyperparameter optimization.**
@@ -86,9 +86,7 @@
 - **Career Planning**: Salary growth projections
 - **Market Analysis**: Industry compensation trends
 
-## 🚀 **Live Demo**
 
-Try the live application: **[Salary Predictor Demo](https://advanced-employee-salary-prediction-ml-abhaysinghrawat-sen8gjx.streamlit.app)**
 
 ![App Screenshot](https://github.com/AbhaySR02/advanced-employee-salary-prediction-ml-abhaysinghrawat/blob/main/results/app%20interface.png)
 
