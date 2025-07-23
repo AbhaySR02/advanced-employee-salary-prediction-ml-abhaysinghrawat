@@ -90,15 +90,15 @@
 
 Try the live application: **[Salary Predictor Demo](https://advanced-employee-salary-prediction-ml-abhaysinghrawat-sen8gjx.streamlit.app)**
 
-![App Screenshot](results/app_screenshot.png)
+![App Screenshot](results/app interface.png)
 
 ## 📊 **Results & Visualizations**
 
 ### Model Performance Comparison
-![Performance Chart](results/performance_charts.png)
+![Performance Chart](results/fast adv ml pipeline results.png)
 
 ### Feature Importance Analysis
-![Feature Importance](results/feature_importance.png)
+![Feature Importance](results/feature imp analysis -voting ensemble.png)
 
 ## 🛠️ **Development Setup**
 
