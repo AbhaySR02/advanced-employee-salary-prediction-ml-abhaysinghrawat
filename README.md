@@ -88,7 +88,7 @@
 
 ## 🚀 **Live Demo**
 
-Try the live application: **[Salary Predictor Demo]("https://advanced-employee-salary-prediction-ml-abhaysinghrawat-sen8gjx.streamlit.app/")**
+Try the live application: **[Salary Predictor Demo](https://advanced-employee-salary-prediction-ml-abhaysinghrawat-sen8gjx.streamlit.app)**
 
 ![App Screenshot](results/app_screenshot.png)
 
