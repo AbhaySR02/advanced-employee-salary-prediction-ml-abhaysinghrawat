@@ -90,7 +90,7 @@
 
 Try the live application: **[Salary Predictor Demo](https://advanced-employee-salary-prediction-ml-abhaysinghrawat-sen8gjx.streamlit.app)**
 
-![App Screenshot](results/app interface.png)
+![App Screenshot](https://github.com/AbhaySR02/advanced-employee-salary-prediction-ml-abhaysinghrawat/blob/main/results/app%20interface.png)
 
 ## 📊 **Results & Visualizations**
 
